@@ -1,0 +1,16 @@
+tree
+house
+flower
+box
+cat
+dog
+bat
+ball
+penguins
+ice
+snow
+fox
+black
+brown
+pink
+red
